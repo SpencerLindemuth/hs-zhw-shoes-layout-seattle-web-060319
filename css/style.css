@@ -328,6 +328,7 @@ section a {
 }
 
 .cd-3{
+  border-style: dashed;
   border-right: hidden;
   border-top: hidden;
   border-bottom: hidden;
