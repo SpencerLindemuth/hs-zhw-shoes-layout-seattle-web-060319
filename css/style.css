@@ -329,7 +329,12 @@ section a {
   border-left: hidden;
 }
 
-.cd-3{}
+.cd-3{
+  border-right: hidden;
+  border-top: hidden;
+  border-bottom: hidden;
+  border-left: hidden;
+}
 
 
 /********** Details **********/
