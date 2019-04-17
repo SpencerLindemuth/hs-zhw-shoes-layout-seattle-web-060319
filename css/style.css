@@ -305,12 +305,14 @@ section a {
 }
 
 .td-1 {
-  padding: 0 10px 0 0;
+  padding: 0 1% 0 0;
+  width: 32%;
   border-style: hidden;
 }
 
 .td-middle {
-  padding: 0 10px 0 10px;
+  padding: 0 1% 0 1%;
+  width: 32%;
   border-style: hidden;
 }
 
