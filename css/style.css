@@ -295,6 +295,9 @@ section a {
   line-height: 0;
 }
 
+.dealtable {
+  border: 0;
+}
 /********** Details **********/
 
 #details {
