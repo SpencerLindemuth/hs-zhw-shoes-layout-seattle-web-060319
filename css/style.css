@@ -268,7 +268,7 @@ section a {
   display: block;
   float: left;
   width: 64%;
-  height: 100em;
+  height: 50em;
   margin-right: 1%;
   overflow: auto;
 }
@@ -277,7 +277,7 @@ section a {
   display: block;
   float: right;
   width: 34%;
-  height: 100em;
+  height: 50em;
   margin-left: 1%;
   overflow: auto;
 
