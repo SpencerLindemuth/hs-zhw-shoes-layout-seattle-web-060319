@@ -265,7 +265,7 @@ section a {
 }
 
 .col-1 {
-  display: table-row;
+  display: table;
   float: left;
   width: 64%;
   margin-right: 1%;
