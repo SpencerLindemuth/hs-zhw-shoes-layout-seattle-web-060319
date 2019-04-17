@@ -307,7 +307,11 @@ section a {
 .td-1 {
   padding: 0 2px 0 0;
   border-style: hidden;
+}
 
+.td-middle {
+  padding: 0 2px 2px 0;
+  border-style: hidden;
 }
 /********** Details **********/
 
