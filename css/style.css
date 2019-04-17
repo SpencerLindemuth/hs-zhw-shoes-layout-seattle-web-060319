@@ -330,7 +330,7 @@ section a {
 }
 
 .cd-3{
-  border-right: hidden;
+  border-right: dashed;
   border-top: hidden;
   border-bottom: hidden;
   border-left: hidden;
