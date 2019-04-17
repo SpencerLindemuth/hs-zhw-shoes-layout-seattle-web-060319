@@ -310,8 +310,12 @@ section a {
 }
 
 .td-middle {
-  padding: 0 2px 2px 0;
+  padding: 0 2px 0 2px;
   border-style: hidden;
+}
+
+.td-3 {
+  padding: 0 0 0 2px;
 }
 /********** Details **********/
 
