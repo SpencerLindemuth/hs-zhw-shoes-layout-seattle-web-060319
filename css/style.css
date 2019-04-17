@@ -306,6 +306,7 @@ section a {
 
 td {
   padding: 0;
+  border-style: hidden;
 }
 /********** Details **********/
 
