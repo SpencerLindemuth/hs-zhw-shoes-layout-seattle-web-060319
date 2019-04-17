@@ -315,7 +315,12 @@ section a {
   border-style: hidden;
 }
 
-.cd-1{}
+.cd-1{
+  border-style: dashed;
+  border-top: hidden;
+  border-bottom: hidden;
+  border-left: hidden;
+}
 
 .cd-2{}
 
