@@ -303,6 +303,10 @@ section a {
   float: left;
   padding: 0;
 }
+
+td {
+  padding: 0;
+}
 /********** Details **********/
 
 #details {
