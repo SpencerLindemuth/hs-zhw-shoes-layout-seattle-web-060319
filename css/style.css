@@ -299,6 +299,7 @@ section a {
   border-style: hidden;
   border-right: hidden;
   border-bottom: hidden;
+  border-left: hidden;
   width: 100%;
 }
 /********** Details **********/
