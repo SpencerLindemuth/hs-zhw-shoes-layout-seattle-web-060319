@@ -274,7 +274,7 @@ section a {
 }
 
 .col-2 {
-  display: table-column;
+  display: table-row;
   float: right;
   width: 34%;
   margin-left: 1%;
