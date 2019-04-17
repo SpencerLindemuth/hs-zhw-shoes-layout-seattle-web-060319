@@ -322,7 +322,12 @@ section a {
   border-left: hidden;
 }
 
-.cd-2{}
+.cd-2{
+  border-style: dashed;
+  border-top: hidden;
+  border-bottom: hidden;
+  border-left: hidden;
+}
 
 .cd-3{}
 
