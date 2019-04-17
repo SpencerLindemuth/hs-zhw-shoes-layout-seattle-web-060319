@@ -297,6 +297,8 @@ section a {
 
 .dealtable {
   border-style: hidden;
+  border-right: 0px;
+  border-bottom: 0px;
 }
 /********** Details **********/
 
