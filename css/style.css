@@ -323,7 +323,7 @@ section a {
 }
 
 .cd-2{
-  border-style: dashed;
+  border-style-right: dashed;
   border-top: hidden;
   border-bottom: hidden;
   border-left: hidden;
