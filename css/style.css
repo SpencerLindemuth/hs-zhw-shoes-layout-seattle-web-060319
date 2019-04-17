@@ -299,6 +299,7 @@ section a {
 }
 
 .td-1 {
+  padding-left: 0;
   width: 33%;
   border-style: hidden;
 }
@@ -309,6 +310,7 @@ section a {
 }
 
 .td-3 {
+  padding-right: 0;
   width: 33%;
   border-style: hidden;
 }
