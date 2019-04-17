@@ -272,7 +272,7 @@ section a {
 }
 
 .col-2 {
-  display: inline-block;
+  display: block;
   float: right;
   width: 34%;
   margin-left: 1%;
