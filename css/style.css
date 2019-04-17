@@ -296,7 +296,7 @@ section a {
 }
 
 .dealtable {
-  border: 0 0 0 0;
+  border: none;
 }
 /********** Details **********/
 
