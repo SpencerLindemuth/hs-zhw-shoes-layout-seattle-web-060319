@@ -329,7 +329,7 @@ section a {
 }
 
 .cd-3{
-  border-right: ;
+  border-right: hidden;
   border-top: hidden;
   border-bottom: hidden;
 }
