@@ -305,20 +305,20 @@ section a {
 }
 
 .td-1 {
-  padding: 0 1% 0 0;
-  width: 32%;
+  padding: 0 2% 0 0;
+  width: 30%;
   border-style: hidden;
 }
 
 .td-middle {
   padding: 0 0 0 0;
-  width: 32%;
+  width: 30%;
   border-style: hidden;
 }
 
 .td-3 {
-  padding: 0 0 0 1%;
-  width: 32%;
+  padding: 0 0 0 2%;
+  width: 30%;
   border-style: hidden;
 }
 /********** Details **********/
