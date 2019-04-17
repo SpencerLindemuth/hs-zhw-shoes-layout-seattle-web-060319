@@ -299,19 +299,17 @@ section a {
 }
 
 .td-1 {
-  padding-right: 20px;
-  width: 30%;
+  width: 33%;
   border-style: hidden;
 }
 
 .td-2 {
-  width: 30%;
+  width: 33%;
   border-style: hidden;
 }
 
 .td-3 {
-  padding-left: 20px;
-  width: 30%;
+  width: 33%;
   border-style: hidden;
 }
 /********** Details **********/
