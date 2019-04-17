@@ -268,6 +268,7 @@ section a {
   display: block;
   float: left;
   width: 64%;
+  height: 90%;
   margin-right: 1%;
   margin-bottom: 1%;
   overflow: auto;
