@@ -300,7 +300,7 @@ section a {
   border-right: hidden;
   border-bottom: hidden;
   border-left: hidden;
-  margin: 2em;
+  float: left;
 }
 /********** Details **********/
 
