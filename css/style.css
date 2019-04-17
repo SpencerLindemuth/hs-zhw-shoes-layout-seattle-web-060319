@@ -311,7 +311,7 @@ section a {
 }
 
 .td-middle {
-  padding: 0 1% 0 1%;
+  padding: 1% 0 1 0;
   width: 32%;
   border-style: hidden;
 }
