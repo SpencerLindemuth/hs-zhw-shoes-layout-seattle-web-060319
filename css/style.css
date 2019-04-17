@@ -304,9 +304,10 @@ section a {
   padding: 0;
 }
 
-td {
+.td-1 {
   padding: 0;
   border-style: hidden;
+  
 }
 /********** Details **********/
 
